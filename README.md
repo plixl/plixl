@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FreshMagicMods
-- 👀 I’m interested in Minecraft Modding
+- 👀 I’m interested in Minecraft Modding, Java, and Kotlin
 
 
 <!---
