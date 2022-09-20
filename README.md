@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FreshMagicMods
+- 👋 Hi, I’m @MithrilArrow
 - 👀 I’m interested in Minecraft Modding, Java, and Kotlin
 
 
