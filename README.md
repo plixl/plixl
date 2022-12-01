@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm plixel4</h1>
 <h3 align="center">A Minecraft Mod Developer</h3>
 
-- 🔭 I’m currently working on my mod called **Rare Rubies**
+- 🔭 I’m currently working on my mod called [Rare Rubies](https://github.com/plixel4/rare_rubies-1.18.2)
 
 - 🌱 I’m currently learning **HTML and CSS**
 
