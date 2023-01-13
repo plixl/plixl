@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I designed my PFP**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=plixel4&show_icons=true&locale=en&layout=compact" alt="plixel4" /></p>
+<p><img align="left" src="![Plixel4's GitHub stats](https://github-readme-stats.vercel.app/api?username=plixel4&show_icons=true&theme=transparent)" /></p>
 
 
 ***
