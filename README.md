@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm plixel4</h1>
 <h3 align="center">A Minecraft Mod Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plixel4" alt="plixel4" /></a> </p>
-
 - 🔭 I’m currently working on my mod called [Rare Rubies](https://github.com/plixel4/rare_rubies-1.18.2)
 
 - 🌱 I’m currently learning **HTML and CSS**
