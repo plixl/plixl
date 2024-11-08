@@ -1,3 +1,3 @@
 Im plixel
 
-Im learning Java and GDscript
+Im learning C# and Verse
